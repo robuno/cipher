@@ -11,7 +11,6 @@ import java.util.Scanner;
  * the order of alphabet.
  *
  * @author Unat Teksen
- * 20181701048
  * Computer Engineering
  * @version 1.0
  * @since 19-12-2020
