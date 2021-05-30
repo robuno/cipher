@@ -6,7 +6,6 @@ import java.io.*;
  *
  *
  * @author Unat Teksen
- * Computer Engineering
  * @version 1.0
  * @since 19-12-2020
  */
